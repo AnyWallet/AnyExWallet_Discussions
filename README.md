@@ -1,2 +1,2 @@
-# UlyssesWallet_Discussions
+# PopWallet_Discussions
 A repo to host organization's discussions.
